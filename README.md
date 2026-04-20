@@ -20,3 +20,16 @@ source-reading-notes/
 ├─ react/           # React 源码解读系列
 ├─ vue/             # Vue 源码解读系列
 └─ assets/          # 仓库级公共资源
+
+
+## 系列博客
+
+- 掘金专栏（持续更新）：
+  [React19 源码主线拆解 系列博客](https://juejin.cn/column/7629539619139321865)
+
+## 相关项目
+
+如果你对 AI 应用工程化方向也感兴趣，我最近还在持续迭代一个 AI 项目：
+
+**AI Mind**  
+GitHub: https://github.com/HWYD/ai-mind
